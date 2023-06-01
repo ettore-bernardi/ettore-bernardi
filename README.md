@@ -1,7 +1,7 @@
 # Hi i'm Ettore Bernardi
 
 ## About me:
-I'm a full stack developer with foccus in back-end.
+I'm a full stack developer with focus in back-end.
 
 ## Knowledge
 <div display="flex">
